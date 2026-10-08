@@ -1,0 +1,6 @@
+# Python Virtual Environment
+/env
+
+# Essas pastas com o banco de dados serão criadas ao rodar o jupyter candidatos_presidencia_divulgacand.ipynb
+/data
+/divulgacand
